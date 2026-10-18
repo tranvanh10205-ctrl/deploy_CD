@@ -1,0 +1,10 @@
+
+fastapi
+uvicorn[standard]
+python-multipart
+jinja2
+python-dotenv
+numpy
+librosa
+soundfile
+faster-whisper
